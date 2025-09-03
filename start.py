@@ -1,5 +1,5 @@
 """
-CSCI-UA.0060 Spring 2025
+CSCI-UA.0060 Fall 2025
 Test Program
 """
 # This program will make sure that you are able to edit a simple program in GitHub
@@ -7,5 +7,5 @@ Test Program
 # Once done, commit the changes
 
 
-print ("Hi there, my name is David Prager")
+print ("Hi there, my name is Mark Ramos")
 print ("My GitHub username is -------")
